@@ -1,6 +1,3 @@
-#Developed by:
-
-#Wembie.
 
 #PASOS A SEGUIR!
 
