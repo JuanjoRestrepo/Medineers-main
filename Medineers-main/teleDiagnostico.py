@@ -1,8 +1,4 @@
-#VERSION BY: WEMBIE
 
-#Developed by:
-
-#Wembie.
 
 def opciones():
   print("\n0 -> Nunca")
