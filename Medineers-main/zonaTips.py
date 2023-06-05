@@ -1,6 +1,4 @@
-#Developed by:
 
-#Wembie.
 
 def mostrarTips():
   print("\n1. ¿Cómo puedo dormir mejor?")
